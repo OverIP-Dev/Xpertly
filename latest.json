@@ -1,18 +1,18 @@
 {
-  "version": "1.2.0",
-  "notes": "Version 1.2.0",
+  "version": "1.2.1",
+  "notes": "Version 1.2.1",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3E2TXY0dWJpdUFVZDBndFZqMGhzOXJOM1IxTGs1RDNhM0ZMS0dYd1NiREN2MUNCVWlHNjlvcDhXNlZRNUJBVWJtbThlbDJ6ZUlpd2JGRGVaSHFEdjhUWnE4akt5SUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTI4NTkxCWZpbGU6WHBlcnRseS5hcHAudGFyLmd6CjhjZDhjWWNJSHdiZEZBVFZzVzJxMVZFQnd3QnMyL2g4amU1TGQxcHJXbEZwSUJkZnoyREYyVzNXTVY2OUo0WDFYcml4UFEvY2ZuUzBQcXlvbmk0WURBPT0K",
-      "url": "https://github.com/OverIP-Dev/Xpertly/releases/download/1.2.0/Xpertly.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3E2TXY0dWJpdUNqMkZoVHN3N0o5ZDVVNitiRUVJQnFsaGhRRTNOcVVLSXhTdEFxby9wNXp1SDc3amE1eXI1aTNrRW9XdjJCRW9YMXh4MTJIK2hpeUo5dkhDclNjZFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MjExNzQwCWZpbGU6WHBlcnRseS5hcHAudGFyLmd6CmRHa0k0V2tKRlYxS0l1RURyZFEyeGRsMDhpYk5SVFVCOVRueVpGQnMwNVpjbEZuanNYMVlBZjJ0OUxtVVV6NFRnSzArTWhqckRLZTZsRDQwZThWV0RnPT0K",
+      "url": "https://github.com/OverIP-Dev/Xpertly/releases/download/1.2.1/Xpertly.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3E2TXY0dWJpdUFVZDBndFZqMGhzOXJOM1IxTGs1RDNhM0ZMS0dYd1NiREN2MUNCVWlHNjlvcDhXNlZRNUJBVWJtbThlbDJ6ZUlpd2JGRGVaSHFEdjhUWnE4akt5SUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTI4NTkxCWZpbGU6WHBlcnRseS5hcHAudGFyLmd6CjhjZDhjWWNJSHdiZEZBVFZzVzJxMVZFQnd3QnMyL2g4amU1TGQxcHJXbEZwSUJkZnoyREYyVzNXTVY2OUo0WDFYcml4UFEvY2ZuUzBQcXlvbmk0WURBPT0K",
-      "url": "https://github.com/OverIP-Dev/Xpertly/releases/download/1.2.0/Xpertly.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3E2TXY0dWJpdUNqMkZoVHN3N0o5ZDVVNitiRUVJQnFsaGhRRTNOcVVLSXhTdEFxby9wNXp1SDc3amE1eXI1aTNrRW9XdjJCRW9YMXh4MTJIK2hpeUo5dkhDclNjZFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MjExNzQwCWZpbGU6WHBlcnRseS5hcHAudGFyLmd6CmRHa0k0V2tKRlYxS0l1RURyZFEyeGRsMDhpYk5SVFVCOVRueVpGQnMwNVpjbEZuanNYMVlBZjJ0OUxtVVV6NFRnSzArTWhqckRLZTZsRDQwZThWV0RnPT0K",
+      "url": "https://github.com/OverIP-Dev/Xpertly/releases/download/1.2.1/Xpertly.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3E2TXY0dWJpdUtGUnJrM21GU1BUT01NNk9ROEJzWmt6Q2w5eTE3R2RIOWVFUFQ3N0w5YVU2K0kxaTRkcElwMEI4b3hOSU41TmpuZDFOZEtDTTMxSFZmTS95QlFZcGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTMwODk0CWZpbGU6WHBlcnRseV8xLjIuMF94NjQtc2V0dXAuZXhlCjlzdVRNeDFEUkpwU1FlREQ0TkZaZ1QzazYveWdjcGUwbVljYkJHR3RrRE9qRVVBMEhQS0VwN0tSL1N1M0VRcTNZcHFQRS9HWnhvbjBCMFk1d2RBUkN3PT0K",
-      "url": "https://github.com/OverIP-Dev/Xpertly/releases/download/1.2.0/Xpertly.exe"
+      "url": "https://github.com/OverIP-Dev/Xpertly/releases/download/1.2.1/Xpertly.exe"
     }
   }
 }
